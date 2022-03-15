@@ -21,3 +21,7 @@ p {
   display: grid;
   column-gap: 50px;
 }
+  }
+footer{
+background-color: #3b6158;
+}
