@@ -21,6 +21,10 @@ p {
   display: grid;
   column-gap: 50px;
 }
+  .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
   }
 footer{
 background-color: #3b6158;
