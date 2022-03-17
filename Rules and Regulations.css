@@ -20,6 +20,7 @@ p {
   grid-container {
   display: grid;
    grid-template-columns: auto auto auto auto;
+    gap: 50px 100px;
 }
 footer{
 background-color: #3b6158;
