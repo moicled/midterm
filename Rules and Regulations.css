@@ -17,7 +17,10 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-  }
+  grid-container {
+  display: grid;
+   grid-template-columns: auto auto auto auto;
+}
 footer{
 background-color: #3b6158;
 }
