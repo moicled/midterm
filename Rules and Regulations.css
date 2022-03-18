@@ -21,6 +21,7 @@ p {
   display: grid;
    grid-template-columns: auto auto auto auto;
     gap: 50px 100px;
+     border: 1px solid blue;
 }
 footer{
 background-color: #3b6158;
