@@ -52,6 +52,11 @@ p {
   flex: 33.33%;
   padding: 5px;
 }
-footer{
-background-color: #3b6158;
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #3b6158;
+  color: white;
 }
+
+
