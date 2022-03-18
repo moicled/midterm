@@ -17,7 +17,7 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-  grid-container {
+  .grid-container {
   display: grid;
    grid-template-columns: auto auto auto auto;
     gap: 50px 100px;
