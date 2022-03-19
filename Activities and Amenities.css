@@ -1,6 +1,12 @@
 header {
 background-color: #5cc19d;
 }
+.title {
+ font-family:  Arial, Helvetica, sans-serif;
+   font-size: 15px;
+  font-style: bold;
+  text-align: center
+}
 a {
   display: block;
   padding: 8px;
