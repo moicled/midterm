@@ -23,14 +23,6 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-  .grid-container {
-  display: grid;
-  column-gap: 50px;
-}
-  .grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-}
  .grid-container {
   display: grid;
    grid-template-columns: auto auto auto auto;
