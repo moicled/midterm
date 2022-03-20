@@ -11,10 +11,10 @@ background-color: #5cc19d;
 a {
   display: block;
   padding: 15px;
-  background-color: #dddddd;
+  background-color: #3b66b0;
 }
 .active {
-  background-color: #04AA6D;
+  background-color: #3b66b0;
 }
 h1 {
   color: white;
