@@ -51,6 +51,7 @@ p {
   float: left;
   width: 33.33%;
   padding: 5px;
+ align: right;
 }
 
 /* Clear floats after image containers */
@@ -66,6 +67,7 @@ p {
 .column {
   flex: 33.33%;
   padding: 5px;
+ allign: right;
 }
 footer {
   text-align: center;
