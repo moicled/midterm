@@ -55,6 +55,10 @@ p {
   margin-right: auto;
   width: 50%;
 }
+  img {
+  max-width: 100%;
+  height: auto;
+}
 footer {
   text-align: center;
   padding: 15px;
