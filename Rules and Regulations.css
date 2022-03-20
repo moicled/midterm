@@ -35,7 +35,6 @@ p {
   display: grid;
   row-gap: 50px;
   grid-template-columns: auto auto auto;
-  background-color: #2196F3;
   padding: 10px;
   grid-template-columns: 2fr 1fr 1fr 200px; 
   grid-template-rows: 1fr 1fr 1fr; 
