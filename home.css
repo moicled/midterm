@@ -4,12 +4,14 @@ background-color: #5cc19d;
 a {
   display: block;
   padding: 8px;
-  background-color: #dddddd;
+  background-color: #3b66b0;
   allign: center;
+  color: white;
 }
 .nav {
-  background-color: #04AA6D;
+  background-color: #3b66b0;
   allign: center;
+  color: white;
 }
 body {
   background-color: lightblue;
