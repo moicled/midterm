@@ -18,17 +18,13 @@ h1 {
   color: white;
   text-align: center;
 }
- h2 {
-  text-align: center;
-  font-size: 15em;
-  font-family: Arial, Helvetica, sans-serif;
- }
 
 p {
   font-family: verdana;
   font-size: 20px;
-}
- .grid-container {
+  }
+  
+.grid-container {
   display: grid;
   row-gap: 50px;
   grid-template-columns: auto auto auto;
@@ -39,6 +35,17 @@ p {
   }
 }
 
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+  .ul{
+    font-family:  Arial, Helvetica, sans-serif;
+  }
+  
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
@@ -58,11 +65,11 @@ p {
 
 .column {
   flex: 33.33%;
-  padding: 3px;
+  padding: 5px;
 }
 footer {
   text-align: center;
-  padding: 5px;
+  padding: 3px;
   background-color: #3b6158;
   color: white;
 }
