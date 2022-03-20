@@ -36,6 +36,7 @@ p {
 .grid-container {
   display: grid;
   row-gap: 50px;
+ column-gap: 2rem;
   grid-template-columns: auto auto auto;
   padding: 10px;
   grid-template-columns: 2fr 1fr 1fr 200px; 
