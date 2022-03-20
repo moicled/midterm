@@ -50,7 +50,10 @@ p {
     font-family: Minion Pro;
    text-allign: center;
   }
-
+img {
+ vertical-align: top;
+ vertical-align: 10em;
+vertical-align: 4px;
   
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
