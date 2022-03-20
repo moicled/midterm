@@ -45,6 +45,19 @@ p {
   .ul{
     font-family:  Arial, Helvetica, sans-serif;
   }
+
+.outer-wrapper{
+        display: inline-block; 
+        margin: 20px;
+    }
+    .frame{  
+        width: 250px;
+        height: 200px;
+        border: 1px solid black;
+        vertical-align: middle;
+        text-align: center;
+        display: table-cell;
+    }    
   
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
