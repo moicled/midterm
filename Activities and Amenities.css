@@ -57,7 +57,7 @@ p {
   float: left;
   width: 33.33%;
   padding: 5px;
- align: right;
+ vertical-align: top;
 }
 
 /* Clear floats after image containers */
@@ -65,15 +65,17 @@ p {
   content: "";
   clear: both;
   display: table;
+ vertical-align: top;
 }
 .row {
   display: flex;
+ vertical-align: top;
 }
 
 .column {
   flex: 33.33%;
   padding: 5px;
- allign: right;
+ vertical-align: top;
 }
 footer {
   text-align: center;
