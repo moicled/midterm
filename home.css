@@ -29,7 +29,8 @@ article {
 section {
    font-family: verdana;
   font-size: 20px;
-  text-allign: center;
+  allign: center;
+  background-color: 3b66b0;
 }
   
 /* Add a black background color to the top navigation */
