@@ -11,9 +11,11 @@ a {
   display: block;
   padding: 8px;
   background-color: #3b66b0;
+ color: white;
 }
 .active {
   background-color: #3b66b0;
+ color: white;
 }
 .center {
   display: block;
