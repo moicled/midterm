@@ -70,6 +70,28 @@ section {
   margin-right: auto;
   width: 50%;
 }
+.grid-container {
+  display: grid;
+  row-gap: 50px;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  grid-template-columns: 2fr 1fr 1fr 200px; 
+  grid-template-rows: 1fr 1fr 1fr; 
+ border-style: solid;
+  }
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+  .ul{
+    font-family: Minion Pro;
+   text-align: center;
+  }
   img {
   display: block;
   margin-left: auto;
