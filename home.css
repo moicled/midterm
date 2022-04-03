@@ -1,5 +1,8 @@
 header {
 background-color: #5cc19d;
+  text-align: center;
+  font-weight: bold;
+  font-size: 3em
 }
 a {
   display: block;
